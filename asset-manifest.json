@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41b79348.css",
+    "main.js": "/static/js/main.8b6882dc.js",
+    "static/media/Alaska.MOV": "/static/media/Alaska.43c013b7525c409c4237.MOV",
+    "static/media/image5.JPG": "/static/media/image5.4f93d343cb713d54018d.JPG",
+    "static/media/profileImage1.png": "/static/media/profileImage1.037f108e430503e5988e.png",
+    "static/media/logoImage.png": "/static/media/logoImage.f0eb087b6ba787f0e8b0.png",
+    "index.html": "/index.html",
+    "main.41b79348.css.map": "/static/css/main.41b79348.css.map",
+    "main.8b6882dc.js.map": "/static/js/main.8b6882dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b79348.css",
+    "static/js/main.8b6882dc.js"
+  ]
+}
