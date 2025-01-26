@@ -20,7 +20,7 @@ import { useScrollPosition } from '@n8tb1t/use-scroll-position'
 import {emailAddress, githubUrl, youtubeUrl, insUrl, insPhotoUrl, bilibiliUrl} from './../constantsLink.js';
 
 function BasicExample() {
-    const [hideOnScroll, setHideOnScroll] = useState(false)
+    const [hideOnScroll, setHideOnScroll] = useState(true)
     const [isNavCollapsed, setIsNavCollapsed] = useState(true);
 
     // Scroll up and down get the the postion alive
